@@ -1,10 +1,1 @@
-# Gambling
-# Gambling
-# Gambling
-# Gambling
-# Gambling
-# Gambling
-# Gambling
-# Gambling
-# Gambling
-# Gambling
+GAMBLING

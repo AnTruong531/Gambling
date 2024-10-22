@@ -1,1 +1,0 @@
-Deploying a bet dApp powered by Beaker
