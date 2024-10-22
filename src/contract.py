@@ -389,12 +389,10 @@ def demo():
 
     print("Requesting set_event_result() transaction in 10s...")
     time.sleep(10)
-    print("Debug here")
     app_client_acct_1.call(
         AlgoBet.set_event_result,  # noqa
         opt=1
     )
-    print("Debug last here")
     print(f"Current app state: {app_client_acct_1.get_application_state()}")
     spacer("Account 1 requests payout")
     sc_bal_before = app_client_acct_1.get_application_account_info()['amount']
